@@ -1,0 +1,19 @@
+{
+  "name": "udemy_tut",
+  "version": "1.0.0",
+  "description": "trying git and github from tutorial",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizajsampan/udemy_tut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizajsampan/udemy_tut/issues"
+  },
+  "homepage": "https://github.com/elizajsampan/udemy_tut#readme"
+}

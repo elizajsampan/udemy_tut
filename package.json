@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/elizajsampan/udemy_tut/issues"
   },
-  "homepage": "https://github.com/elizajsampan/udemy_tut#readme"
+  "homepage": "https://github.com/elizajsampan/udemy_tut#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
